@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/images/header-bg.jpg);
+    background-size: cover;
+    width: 100%;
+
+}
+
+.navbar-logo {
+    background-image: url("/images/navbar-logo.svg");
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    margin-left: 67rem;
+    margin-top: 2rem;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.navigation li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.content {
+    display: block;
+    margin-block: 20rem;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+}
+
+.scroll-button {
+    display: inline-block;
+    background-color: #FFA500;
+    margin-top: 70px;
+    padding: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.services-info {
+    background-color: #fff;
+    background-attachment: fixed;
+    padding-top: 10rem;
+    margin-top: 104px;
+    margin-bottom: -36.6rem;
+
+}
+
+.services-description {
+    color: #000000;
+    margin-top: 40px;
+}
+
+.services-content {
+    color: #000000;
+    padding: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    display: flex;
+
+}
+
+.img {
+    margin-left: 10rem;
+    margin-right: 1rem;
+}
+
+
+.img-size-1 {
+    width: 100px;
+
+}
+
+.img-size-2 {
+    width: 100px;
+}
+
+.img-size-3 {
+    width: 100px;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    width: 40%;
+    
+}
+h4{
+    color: #000000;
+}
+p{
+    color: #000000;
+    font-weight: 5px;
+}
+
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    width: 40%;
+}
+
+.card3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    width: 40%;
+}
+
+.card {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.container2 {
+    padding: 2px 16px;
+}
+
+.container3 {
+    padding: 2px 16px;
+}
+
+.card4 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    width: 40%;
+}
+
+.card5 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    width: 40%;
+}
+
+.card6 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    width: 40%;
+}
+
+.card {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container4{
+    padding: 2px 16px;
+}
+.container5 {
+    padding: 2px 16px;
+}
+.container6 {
+    padding: 2px 16px;
+}
